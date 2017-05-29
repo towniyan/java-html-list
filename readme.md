@@ -1,5 +1,4 @@
-##Java HTML List
-
+## Java HTML List
 We'll read a *.list* file which will have line separated list items.
 Upon reading the list file, we'll create an HTML list file out of it.
 
